@@ -32,11 +32,11 @@
 | 2 | [SQL Customer Analysis](link-add-karna) | Customer segmentation using SQL queries | SQL |
 | 3 | Coming Soon... | Python EDA Project | Python |
 
-> 📌 *Projects are currently in progress. Will be uploaded soon!*
+> 📌 *Projects Will be uploaded soon!*
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumika-baliyan17)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikabaliyan17@gmail.com)
 
 ## 📊 GitHub Stats
