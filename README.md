@@ -20,7 +20,7 @@
 
 ## 📜 Certifications
 
-- ✅ **Prompt Engineering for AI Applications** – Alison (CPD Certified) | Apr 2026
+- ✅ **Prompt Engineering for AI Applications** – IBM Prompt engineering| Apr 2026
 - ✅ **GenAI Powered Data Analytics Job Simulation** – Tata Consultancy Services (via Forage) | Mar 2026
 - ✅ **Data Analytics Job Simulation** – Deloitte Australia (via Forage) | Mar 2026
 
